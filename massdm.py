@@ -7,7 +7,7 @@ client = commands.Bot(command_prefix = 'a niglet', help_command = None)
 # this made me attract 100 gurls at my door 
 
 colorama.init()
-token = input("Input Token>>")
+token = input("NzcwMzg2NTA4NzI0OTYxMzMw.YcvQJg.yeNwjt6bxoxuopUhkRqHWwaFY48>>")
 @client.event
 async def on_ready():
  os.system('cls')
